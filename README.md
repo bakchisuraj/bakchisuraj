@@ -14,7 +14,7 @@ Feel free to connect with me, explore my repositories, and let's build awesome t
 </br>
 
 # 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bakchisuraj.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]( https://bakchisuraj.github.io/my_portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lp.surajbakchi01@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajbakchi) 
 </br>
