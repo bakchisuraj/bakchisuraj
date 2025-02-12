@@ -28,6 +28,7 @@ Feel free to connect with me, explore my repositories, and let's build awesome t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bakchisuraj&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bakchisuraj&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bakchisuraj&theme=default&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bakchisuraj&icon=0&color=12)](https://visitcount.itsvg.in)
