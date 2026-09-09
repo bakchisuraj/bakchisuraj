@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi there! I'm an adaptable frontend developer proficient in React, with a strong aptitude for problem-solving. I thrive in both solo and collaborative project environments. Passionate about technology—especially Generative AI—I enjoy exploring new technical stacks to expand my skill set.
+👋 Hi there! I'm an adaptable Full Stack developer proficient in React, with a strong aptitude for problem-solving. I thrive in both solo and collaborative project environments. Passionate about technology—especially Generative AI—I enjoy exploring new technical stacks to expand my skill set.
 
 Here's a bit more about me:
 
